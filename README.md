@@ -1,2 +1,0 @@
-# ggy
-Guguyan website
