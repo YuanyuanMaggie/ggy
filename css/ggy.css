@@ -74,10 +74,15 @@ header.blur:hover::before{
     height:300px;
 }
 .news-list{
-    max-width:400px;
+    max-width:800px;
     margin: 0 auto;
 }
 
 .menu-img-list{
     min-width: 120px;
+}
+
+.text-faded a:hover{
+    color:#fff;
+    cursor:pointer;
 }
